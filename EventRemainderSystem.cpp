@@ -5,7 +5,7 @@ using namespace std;
  * 1. TiTle
  * 2. Description
  * 3. Date
- * 4. Status(done / pending)
+ * 4. Status(Completed / pending)
  */
 class Event
 {
@@ -51,9 +51,11 @@ public:
 
 /*
  * 1. Adding events
- * 2.Viewing events
- * 3. Marking as Complete
- * 4. Removing events
+ * 2. Viewing events
+ * 3. Removing events
+ * 4. Marking as Complete
+ * 5. Veiw Completed events
+ * 6. Exit
  */
 class remainderManager
 {
